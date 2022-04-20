@@ -1,3 +1,3 @@
 # mygitactions
 
-edit
+edit, enable workflow
